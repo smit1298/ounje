@@ -20,10 +20,10 @@ const dish = {
         },
         {
             "id": "52930",
-            "strMeal": "Pavlova",
-            "strMealThumb": "https://www.smartertravel.com/wp-content/uploads/2014/06/stm53a1e3b0aae4120140618.jpg",
+            "strMeal": "Buteter Tart",
+            "strMealThumb": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2018/07/03/USATODAY/usatsports/247WallSt.com-247WS-474791-imageforentry54.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut cursus, tellus eget tempor vulputate, dolor orci congue nisi, nec finibus augue nisl eget velit. Vivamus quis nisi mollis nunc ullamcorper tristique. Nulla lectus massa, semper id felis at, sodales vulputate ante. Etiam et auctor risus. Nulla sed vestibulum dui. Praesent vestibulum placerat felis, et lobortis dolor fermentum ut. Etiam lacus purus, placerat non tempus eget, fringilla vel enim. Ut porttitor tincidunt volutpat. Aenean quis elit eget enim porta vehicula. Sed maximus at mi ut molestie. Pellentesque maximus tristique nunc nec maximus. Aliquam sed pretium augue. Nunc ac malesuada dui. In ac leo condimentum, maximus leo id, cursus quam.",
-            "title": "Pavlova",
+            "title": "Buteter Tart",
             "price": "$13",
             "ratings": 2
         },
@@ -74,10 +74,10 @@ const dish = {
     },
     {
         "id": "52930",
-        "strMeal": "Pavlova",
-        "strMealThumb": "https://www.smartertravel.com/wp-content/uploads/2014/06/stm53a1e3b0aae4120140618.jpg",
+        "strMeal": "Buteter Tart",
+        "strMealThumb": "http://www.fortysomething.ca/wp-content/uploads/2008/03/buttertarts.jpg",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut cursus, tellus eget tempor vulputate, dolor orci congue nisi, nec finibus augue nisl eget velit. Vivamus quis nisi mollis nunc ullamcorper tristique. Nulla lectus massa, semper id felis at, sodales vulputate ante. Etiam et auctor risus. Nulla sed vestibulum dui. Praesent vestibulum placerat felis, et lobortis dolor fermentum ut. Etiam lacus purus, placerat non tempus eget, fringilla vel enim. Ut porttitor tincidunt volutpat. Aenean quis elit eget enim porta vehicula. Sed maximus at mi ut molestie. Pellentesque maximus tristique nunc nec maximus. Aliquam sed pretium augue. Nunc ac malesuada dui. In ac leo condimentum, maximus leo id, cursus quam.",
-        "title": "Pavlova",
+        "title": "Buteter Tart",
         "price": "$13",
         "ratings": 2
     },
